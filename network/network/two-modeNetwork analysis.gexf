@@ -1,0 +1,2804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2021-11-13">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="attribute" title="attribute" type="string"></attribute>
+      <attribute id="category" title="category" type="string"></attribute>
+      <attribute id="weighted degree" title="Weighted Degree" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="eccentricity" title="Eccentricity" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="closnesscentrality" title="Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="harmonicclosnesscentrality" title="Harmonic Closeness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+      <attribute id="betweenesscentrality" title="Betweenness Centrality" type="double">
+        <default>0.0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="Geoff Grant" label="Geoff Grant">
+        <attvalues>
+          <attvalue for="attribute" value="Camera operator/Floor manager/Director"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="41.0"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3191881918819188"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.4658821910266998"></attvalue>
+          <attvalue for="betweenesscentrality" value="4051.8559523809454"></attvalue>
+        </attvalues>
+        <viz:size value="49.02439"></viz:size>
+        <viz:position x="-232.79462" y="-266.465"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Howard Gretton" label="Howard Gretton">
+        <attvalues>
+          <attvalue for="attribute" value="Reporter/Director"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="12.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.24331926863572434"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3223713184695841"></attvalue>
+          <attvalue for="betweenesscentrality" value="2803.8333333333303"></attvalue>
+        </attvalues>
+        <viz:size value="20.731709"></viz:size>
+        <viz:position x="511.68008" y="-99.66609"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Rick Ardon" label="Rick Ardon">
+        <attvalues>
+          <attvalue for="attribute" value="Print journalist/Reporter/Anchor man"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="7.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.20186697782963828"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2641136801541432"></attvalue>
+          <attvalue for="betweenesscentrality" value="422.6000000000017"></attvalue>
+        </attvalues>
+        <viz:size value="15.853659"></viz:size>
+        <viz:position x="561.9477" y="17.188438"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="John Bale" label="John Bale">
+        <attvalues>
+          <attvalue for="attribute" value="Camera operator/Director"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="42.0"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3392156862745098"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.48283787503440645"></attvalue>
+          <attvalue for="betweenesscentrality" value="5049.909507159503"></attvalue>
+        </attvalues>
+        <viz:size value="50.0"></viz:size>
+        <viz:position x="-84.83214" y="207.00374"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Dorothy Hallam" label="Dorothy Hallam">
+        <attvalues>
+          <attvalue for="attribute" value="Camera operator"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.17545638945233266"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.21238416368474144"></attvalue>
+          <attvalue for="betweenesscentrality" value="341.5"></attvalue>
+        </attvalues>
+        <viz:size value="13.902439"></viz:size>
+        <viz:position x="111.375374" y="578.1784"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Kim Jordan" label="Kim Jordan">
+        <attvalues>
+          <attvalue for="attribute" value="Reporter/Producer/News Editor"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="19.0"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.28689883913764513"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.36191852463528823"></attvalue>
+          <attvalue for="betweenesscentrality" value="3111.166666666664"></attvalue>
+        </attvalues>
+        <viz:size value="27.560976"></viz:size>
+        <viz:position x="375.8201" y="-206.0161"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Stuart Joynt" label="Stuart Joynt">
+        <attvalues>
+          <attvalue for="attribute" value="Print journalist/Reporter"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="16.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.17492416582406473"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2637627305257363"></attvalue>
+          <attvalue for="betweenesscentrality" value="816.9666666666665"></attvalue>
+        </attvalues>
+        <viz:size value="24.634148"></viz:size>
+        <viz:position x="677.8682" y="-37.46123"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Voja Milasich" label="Voja Milasich">
+        <attvalues>
+          <attvalue for="attribute" value="Script assistant/Production assistant/ Director"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.22409326424870465"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.26264106798788833"></attvalue>
+          <attvalue for="betweenesscentrality" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="13.902439"></viz:size>
+        <viz:position x="385.16113" y="-64.58213"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Ian Ross" label="Ian Ross">
+        <attvalues>
+          <attvalue for="attribute" value="Reporter/Anchor man"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="22.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2609351432880845"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.35785163776493295"></attvalue>
+          <attvalue for="betweenesscentrality" value="1498.4280219780208"></attvalue>
+        </attvalues>
+        <viz:size value="30.487804"></viz:size>
+        <viz:position x="-424.58704" y="162.65497"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Mary Parker" label="Mary Parker">
+        <attvalues>
+          <attvalue for="attribute" value="Reporter/Anchor man"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="11.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.25667655786350146"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3212427745664745"></attvalue>
+          <attvalue for="betweenesscentrality" value="1030.6666666666677"></attvalue>
+        </attvalues>
+        <viz:size value="19.756098"></viz:size>
+        <viz:position x="-266.11115" y="-101.31477"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="GTV-9" label="GTV-9">
+        <attvalues>
+          <attvalue for="attribute" value="Melbourne"></attvalue>
+          <attvalue for="category" value="channel"></attvalue>
+          <attvalue for="weighted degree" value="33.0"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3793859649122807"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.491714836223506"></attvalue>
+          <attvalue for="betweenesscentrality" value="8280.871445221437"></attvalue>
+        </attvalues>
+        <viz:size value="41.219513"></viz:size>
+        <viz:position x="-122.22715" y="-36.71161"></viz:position>
+        <viz:color r="122" g="0" b="37"></viz:color>
+      </node>
+      <node id="ADS-7" label="ADS-7">
+        <attvalues>
+          <attvalue for="attribute" value="Adelaide"></attvalue>
+          <attvalue for="category" value="channel"></attvalue>
+          <attvalue for="weighted degree" value="12.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2460881934566145"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3252614918799901"></attvalue>
+          <attvalue for="betweenesscentrality" value="27.5"></attvalue>
+        </attvalues>
+        <viz:size value="20.731709"></viz:size>
+        <viz:position x="-268.0572" y="-450.7063"></viz:position>
+        <viz:color r="122" g="0" b="37"></viz:color>
+      </node>
+      <node id="ATV-0" label="ATV-0">
+        <attvalues>
+          <attvalue for="attribute" value="Melbourne"></attvalue>
+          <attvalue for="category" value="channel"></attvalue>
+          <attvalue for="weighted degree" value="12.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.25181950509461426"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3336429947701635"></attvalue>
+          <attvalue for="betweenesscentrality" value="165.12142857142825"></attvalue>
+        </attvalues>
+        <viz:size value="20.731709"></viz:size>
+        <viz:position x="-165.71223" y="-353.42212"></viz:position>
+        <viz:color r="122" g="0" b="37"></viz:color>
+      </node>
+      <node id="ABC Perth" label="ABC Perth">
+        <attvalues>
+          <attvalue for="attribute" value="Perth"></attvalue>
+          <attvalue for="category" value="channel"></attvalue>
+          <attvalue for="weighted degree" value="18.0"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.28642384105960267"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3590283512248837"></attvalue>
+          <attvalue for="betweenesscentrality" value="3821.5333333333356"></attvalue>
+        </attvalues>
+        <viz:size value="26.585365"></viz:size>
+        <viz:position x="398.53067" y="-116.3161"></viz:position>
+        <viz:color r="122" g="0" b="37"></viz:color>
+      </node>
+      <node id="Tasmanian Government Film Unit" label="Tasmanian Government Film Unit">
+        <attvalues>
+          <attvalue for="attribute" value="Tasmania"></attvalue>
+          <attvalue for="category" value="channel"></attvalue>
+          <attvalue for="weighted degree" value="13.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.26251896813353565"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.34397880539499104"></attvalue>
+          <attvalue for="betweenesscentrality" value="1029.5"></attvalue>
+        </attvalues>
+        <viz:size value="21.707317"></viz:size>
+        <viz:position x="16.997677" y="441.41388"></viz:position>
+        <viz:color r="122" g="0" b="37"></viz:color>
+      </node>
+      <node id="Daily News" label="Daily News">
+        <attvalues>
+          <attvalue for="attribute" value="Perth"></attvalue>
+          <attvalue for="category" value="channel"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2232258064516129"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.25204376548307145"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="358.55045" y="-262.9125"></viz:position>
+        <viz:color r="122" g="0" b="37"></viz:color>
+      </node>
+      <node id="ABC Sydney" label="ABC Sydney">
+        <attvalues>
+          <attvalue for="attribute" value="Sydney"></attvalue>
+          <attvalue for="category" value="channel"></attvalue>
+          <attvalue for="weighted degree" value="10.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2258485639686684"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2780553261767131"></attvalue>
+          <attvalue for="betweenesscentrality" value="17.833333333333336"></attvalue>
+        </attvalues>
+        <viz:size value="18.780487"></viz:size>
+        <viz:position x="434.37088" y="-243.8862"></viz:position>
+        <viz:color r="122" g="0" b="37"></viz:color>
+      </node>
+      <node id="TVW-7" label="TVW-7">
+        <attvalues>
+          <attvalue for="attribute" value="Perth"></attvalue>
+          <attvalue for="category" value="channel"></attvalue>
+          <attvalue for="weighted degree" value="20.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.20595238095238094"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.30553949903660965"></attvalue>
+          <attvalue for="betweenesscentrality" value="2174.033333333334"></attvalue>
+        </attvalues>
+        <viz:size value="28.536585"></viz:size>
+        <viz:position x="569.4746" y="-51.38116"></viz:position>
+        <viz:color r="122" g="0" b="37"></viz:color>
+      </node>
+      <node id="SAS TV" label="SAS TV">
+        <attvalues>
+          <attvalue for="attribute" value="Adelaide"></attvalue>
+          <attvalue for="category" value="channel"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="11.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.14900947459086994"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.18856609030019433"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="719.50256" y="-3.971946"></viz:position>
+        <viz:color r="122" g="0" b="37"></viz:color>
+      </node>
+      <node id="TCN-9" label="TCN-9">
+        <attvalues>
+          <attvalue for="attribute" value="Sydney"></attvalue>
+          <attvalue for="category" value="channel"></attvalue>
+          <attvalue for="weighted degree" value="17.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2897822445561139"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3922447013487478"></attvalue>
+          <attvalue for="betweenesscentrality" value="1923.354353979357"></attvalue>
+        </attvalues>
+        <viz:size value="25.609756"></viz:size>
+        <viz:position x="-315.95358" y="126.69898"></viz:position>
+        <viz:color r="122" g="0" b="37"></viz:color>
+      </node>
+      <node id="ATN-7" label="ATN-7">
+        <attvalues>
+          <attvalue for="attribute" value="Sydney"></attvalue>
+          <attvalue for="category" value="channel"></attvalue>
+          <attvalue for="weighted degree" value="6.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.24061196105702365"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.29240985411505666"></attvalue>
+          <attvalue for="betweenesscentrality" value="127.63983516483518"></attvalue>
+        </attvalues>
+        <viz:size value="14.878049"></viz:size>
+        <viz:position x="-374.05307" y="68.78291"></viz:position>
+        <viz:color r="122" g="0" b="37"></viz:color>
+      </node>
+      <node id="HSV-7" label="HSV-7">
+        <attvalues>
+          <attvalue for="attribute" value="Melbourne"></attvalue>
+          <attvalue for="category" value="channel"></attvalue>
+          <attvalue for="weighted degree" value="8.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.24297752808988765"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2969377924580241"></attvalue>
+          <attvalue for="betweenesscentrality" value="355.8595238095242"></attvalue>
+        </attvalues>
+        <viz:size value="16.82927"></viz:size>
+        <viz:position x="-201.01584" y="-132.91261"></viz:position>
+        <viz:color r="122" g="0" b="37"></viz:color>
+      </node>
+      <node id="ABC Tasmania" label="ABC Tasmania">
+        <attvalues>
+          <attvalue for="attribute" value="Tasmania"></attvalue>
+          <attvalue for="category" value="channel"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.1752786220871327"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2094939902743369"></attvalue>
+          <attvalue for="betweenesscentrality" value="169.5"></attvalue>
+        </attvalues>
+        <viz:size value="12.926829"></viz:size>
+        <viz:position x="124.03815" y="548.2444"></viz:position>
+        <viz:color r="122" g="0" b="37"></viz:color>
+      </node>
+      <node id="Graham Kennedy" label="Graham Kennedy">
+        <attvalues>
+          <attvalue for="attribute" value="In Melbourne Tonight' Television personality"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.28833333333333333"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.34179741260666135"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-151.44704" y="-94.10275"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="John Casamento" label="John Casamento">
+        <attvalues>
+          <attvalue for="attribute" value="Herald Sun photojournalist"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2426367461430575"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2963597577759436"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-316.28113" y="-360.38855"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Keith McDonald" label="Keith McDonald">
+        <attvalues>
+          <attvalue for="attribute" value="Channel owner"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2426367461430575"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2963597577759436"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-308.215" y="-449.91455"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Lynton Taylor" label="Lynton Taylor">
+        <attvalues>
+          <attvalue for="attribute" value="Executive producer"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.28833333333333333"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.34179741260666135"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-170.54218" y="-76.692245"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Neville Thomson" label="Neville Thomson">
+        <attvalues>
+          <attvalue for="attribute" value="Program manager"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2426367461430575"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2963597577759436"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-300.83224" y="-473.90823"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Norm Spencer" label="Norm Spencer">
+        <attvalues>
+          <attvalue for="attribute" value="Producer-programmer"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.295221843003413"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.35383980181668073"></attvalue>
+          <attvalue for="betweenesscentrality" value="173.25238095238092"></attvalue>
+        </attvalues>
+        <viz:size value="11.95122"></viz:size>
+        <viz:position x="-179.91805" y="-101.38942"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Tony Charlton" label="Tony Charlton">
+        <attvalues>
+          <attvalue for="attribute" value="Sports broadcaster"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.295221843003413"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.35383980181668073"></attvalue>
+          <attvalue for="betweenesscentrality" value="173.25238095238092"></attvalue>
+        </attvalues>
+        <viz:size value="11.95122"></viz:size>
+        <viz:position x="-162.66579" y="-123.03231"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Tony Roberts" label="Tony Roberts">
+        <attvalues>
+          <attvalue for="attribute" value="Presenter"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2426367461430575"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2963597577759436"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-300.1706" y="-426.09116"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Maree Tomasetti" label="Maree Tomasetti">
+        <attvalues>
+          <attvalue for="attribute" value="Presenter 'Stairway to the Stars'"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2426367461430575"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2963597577759436"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-257.32205" y="-414.4653"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Bert Newton" label="Bert Newton">
+        <attvalues>
+          <attvalue for="attribute" value="In Melbourne Tonight' Television personality"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3100358422939068"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.374071015689513"></attvalue>
+          <attvalue for="betweenesscentrality" value="151.92023809523818"></attvalue>
+        </attvalues>
+        <viz:size value="11.95122"></viz:size>
+        <viz:position x="-191.65755" y="-28.575489"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Bobby Limb" label="Bobby Limb">
+        <attvalues>
+          <attvalue for="attribute" value="Australian national variety show'/'The Bobby Limb Show' Presenter"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2426367461430575"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2963597577759436"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-236.80748" y="-474.99054"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Bob Dyer" label="Bob Dyer">
+        <attvalues>
+          <attvalue for="attribute" value="Pick a Box' Radio/television performer"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.30619469026548674"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3676162950729428"></attvalue>
+          <attvalue for="betweenesscentrality" value="608.5630952380953"></attvalue>
+        </attvalues>
+        <viz:size value="11.95122"></viz:size>
+        <viz:position x="-224.09029" y="33.704517"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Rod Kinnear" label="Rod Kinnear">
+        <attvalues>
+          <attvalue for="attribute" value="Producer/director"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.28833333333333333"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.34179741260666135"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-126.388176" y="-98.32557"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Michael Browning" label="Michael Browning">
+        <attvalues>
+          <attvalue for="attribute" value="Cameraman &quot;On the streets&quot; Night Watch show"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3117117117117117"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.38081475364712375"></attvalue>
+          <attvalue for="betweenesscentrality" value="267.89087579087607"></attvalue>
+        </attvalues>
+        <viz:size value="13.902439"></viz:size>
+        <viz:position x="-68.67876" y="44.98515"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Mal Bryning" label="Mal Bryning">
+        <attvalues>
+          <attvalue for="attribute" value="Director/editor &quot;On the streets&quot; Night Watch show"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="5.0"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3117117117117117"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.38081475364712375"></attvalue>
+          <attvalue for="betweenesscentrality" value="267.89087579087607"></attvalue>
+        </attvalues>
+        <viz:size value="13.902439"></viz:size>
+        <viz:position x="-46.156822" y="18.088423"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Michael Schildberger" label="Michael Schildberger">
+        <attvalues>
+          <attvalue for="attribute" value="News reporter/executive producer and national host of A Current Affair"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3100358422939068"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.374071015689513"></attvalue>
+          <attvalue for="betweenesscentrality" value="151.92023809523818"></attvalue>
+        </attvalues>
+        <viz:size value="11.95122"></viz:size>
+        <viz:position x="-109.62111" y="-118.67377"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Michael Pate" label="Michael Pate">
+        <attvalues>
+          <attvalue for="attribute" value="Actor in drama 'Shell presents: &quot;Tragedy In A Temporary Town&quot;'"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.28833333333333333"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.34179741260666135"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-78.969635" y="-84.2664"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Tom Miller" label="Tom Miller">
+        <attvalues>
+          <attvalue for="attribute" value="Producer of IMT/Newsreader with director Rod Kinnear on opening night"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.28833333333333333"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.34179741260666135"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-183.90213" y="-55.112213"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Binnie Lum" label="Binnie Lum">
+        <attvalues>
+          <attvalue for="attribute" value="Host of 'Thursday at One with Binnie Lum'"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.28833333333333333"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.34179741260666135"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-136.83823" y="-119.666275"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="David Bell" label="David Bell">
+        <attvalues>
+          <attvalue for="attribute" value="Camera-man and on Humphrey B Bear set at NWS9 Adelaide"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2426367461430575"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2963597577759436"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-257.02536" y="-489.47104"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Ted Craig" label="Ted Craig">
+        <attvalues>
+          <attvalue for="attribute" value="Director/producer (previously only theatre)"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2426367461430575"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2963597577759436"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-281.70557" y="-409.31247"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Fred Maxian" label="Fred Maxian">
+        <attvalues>
+          <attvalue for="attribute" value="Producer of 'Opening night variety show'"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2426367461430575"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2963597577759436"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-281.6782" y="-489.26077"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Trevor Ling" label="Trevor Ling">
+        <attvalues>
+          <attvalue for="attribute" value="Art Director"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2426367461430575"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2963597577759436"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-236.06805" y="-429.9816"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Brian Thompson" label="Brian Thompson">
+        <attvalues>
+          <attvalue for="attribute" value="Art Director"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2426367461430575"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2963597577759436"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-225.72809" y="-452.54446"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Ian Crawford" label="Ian Crawford">
+        <attvalues>
+          <attvalue for="attribute" value="Camera three operator (Camera on Graham) on IMT"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.28833333333333333"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.34179741260666135"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-101.63713" y="-94.14651"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Peter Cellier" label="Peter Cellier">
+        <attvalues>
+          <attvalue for="attribute" value="The opening Night Variety Show' TV personality"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2426367461430575"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2963597577759436"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-234.35466" y="-405.07355"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Arthur George Warner" label="Arthur George Warner">
+        <attvalues>
+          <attvalue for="attribute" value="Aster TV Radio Corporation chairman and managing director (owned GTV-9)"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.24297752808988765"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.29732314891274514"></attvalue>
+          <attvalue for="betweenesscentrality" value="13.166666666666666"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-82.33568" y="-136.69492"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Herald Sun" label="Herald Sun">
+        <attvalues>
+          <attvalue for="attribute" value="Melbourne"></attvalue>
+          <attvalue for="category" value="channel"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2426367461430575"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2963597577759436"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-319.1568" y="-335.428"></viz:position>
+        <viz:color r="122" g="0" b="37"></viz:color>
+      </node>
+      <node id="ASTER TV Radio Corporation" label="ASTER TV Radio Corporation">
+        <attvalues>
+          <attvalue for="attribute" value="Melbourne"></attvalue>
+          <attvalue for="category" value="channel"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2763578274760383"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3172309386182218"></attvalue>
+          <attvalue for="betweenesscentrality" value="43.877380952380975"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-81.72969" y="-109.14619"></viz:position>
+        <viz:color r="122" g="0" b="37"></viz:color>
+      </node>
+      <node id="Ray Taylor" label="Ray Taylor">
+        <attvalues>
+          <attvalue for="attribute" value="Host of 'The Ray Taylor Show'"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2446958981612447"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2989609138453077"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-201.95357" y="-344.0101"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Godfrey Phillip" label="Godfrey Phillip">
+        <attvalues>
+          <attvalue for="attribute" value="Director/producer of 'The Go!! Show'"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2446958981612447"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2989609138453077"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-199.7673" y="-372.62793"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Johnny Young" label="Johnny Young">
+        <attvalues>
+          <attvalue for="attribute" value="Presenter of 'The Go!! Show'"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2446958981612447"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2989609138453077"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-157.05492" y="-392.59247"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Ian Turpie" label="Ian Turpie">
+        <attvalues>
+          <attvalue for="attribute" value="Presenter of 'The Go!! Show'"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2446958981612447"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2989609138453077"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-182.29018" y="-390.75784"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Tedd Dunn" label="Tedd Dunn">
+        <attvalues>
+          <attvalue for="attribute" value="Producer of 'Gown of the Year' and fashion designer and was wardrobe manager"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2446958981612447"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2989609138453077"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-221.26625" y="-360.26495"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="John Farrar" label="John Farrar">
+        <attvalues>
+          <attvalue for="attribute" value="The Go!! Show' house band member"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2446958981612447"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2989609138453077"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-126.210175" y="-354.9306"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Pat Carrol" label="Pat Carrol">
+        <attvalues>
+          <attvalue for="attribute" value="The Go!! Show' singer"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2446958981612447"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2989609138453077"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-133.538" y="-330.1367"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Olivia Newton-John" label="Olivia Newton-John">
+        <attvalues>
+          <attvalue for="attribute" value="The Go!! Show' singer"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2446958981612447"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2989609138453077"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-135.4273" y="-378.97336"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Ken Sparkes" label="Ken Sparkes">
+        <attvalues>
+          <attvalue for="attribute" value="Kommotion' Host"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2446958981612447"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2989609138453077"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-180.54614" y="-320.16562"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Barry McQueen" label="Barry McQueen">
+        <attvalues>
+          <attvalue for="attribute" value="Newsreader"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2446958981612447"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2989609138453077"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-154.60611" y="-315.5634"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Geof Parry" label="Geof Parry">
+        <attvalues>
+          <attvalue for="attribute" value="Reporter"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.23666210670314639"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2857624552711254"></attvalue>
+          <attvalue for="betweenesscentrality" value="502.4666666666659"></attvalue>
+        </attvalues>
+        <viz:size value="11.95122"></viz:size>
+        <viz:position x="471.51077" y="-87.8434"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Bill King" label="Bill King">
+        <attvalues>
+          <attvalue for="attribute" value="Journalist (Howard Gretton's Uncle)"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.19839449541284404"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.24002890173410457"></attvalue>
+          <attvalue for="betweenesscentrality" value="103.59999999999968"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="599.2482" y="16.136444"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="John Mort" label="John Mort">
+        <attvalues>
+          <attvalue for="attribute" value="Reporter"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.24677263969171526"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="553.58655" y="-96.9658"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Alison Fan" label="Alison Fan">
+        <attvalues>
+          <attvalue for="attribute" value="Reporter"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.20163170163170163"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.25544315992292915"></attvalue>
+          <attvalue for="betweenesscentrality" value="280.43333333333374"></attvalue>
+        </attvalues>
+        <viz:size value="11.95122"></viz:size>
+        <viz:position x="580.8317" y="-104.1541"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Michael Goodall" label="Michael Goodall">
+        <attvalues>
+          <attvalue for="attribute" value="Camerman"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.23097463284379172"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2689031103770984"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="446.52722" y="-114.76475"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Chris Hunt" label="Chris Hunt">
+        <attvalues>
+          <attvalue for="attribute" value="Journalist"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.24677263969171526"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="522.9649" y="-38.617943"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Dale O'Neill" label="Dale O'Neill">
+        <attvalues>
+          <attvalue for="attribute" value="Senior Chief of Staff"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.24677263969171526"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="524.1697" y="-63.552902"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Phil Sylvester" label="Phil Sylvester">
+        <attvalues>
+          <attvalue for="attribute" value="Senior News Producer"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.23666210670314639"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2857624552711254"></attvalue>
+          <attvalue for="betweenesscentrality" value="502.4666666666659"></attvalue>
+        </attvalues>
+        <viz:size value="11.95122"></viz:size>
+        <viz:position x="486.31528" y="-63.189972"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Susannah Carr" label="Susannah Carr">
+        <attvalues>
+          <attvalue for="attribute" value="News Presenter"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.17145688800792863"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.21751995595926224"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="584.16235" y="-6.3469725"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="David Cooper" label="David Cooper">
+        <attvalues>
+          <attvalue for="attribute" value="Assistant News Director"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.17145688800792863"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.21751995595926224"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="547.07446" y="-10.483103"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="The West Australian" label="The West Australian">
+        <attvalues>
+          <attvalue for="attribute" value="Perth"></attvalue>
+          <attvalue for="category" value="channel"></attvalue>
+          <attvalue for="weighted degree" value="6.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.17231075697211157"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.23004404073768234"></attvalue>
+          <attvalue for="betweenesscentrality" value="89.03333333333352"></attvalue>
+        </attvalues>
+        <viz:size value="14.878049"></viz:size>
+        <viz:position x="625.72815" y="32.8898"></viz:position>
+        <viz:color r="122" g="0" b="37"></viz:color>
+      </node>
+      <node id="Jim Dunbar" label="Jim Dunbar">
+        <attvalues>
+          <attvalue for="attribute" value="Cadet Counsellor"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.1696078431372549"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2069226534544453"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="597.33246" y="47.015087"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="John Rudd" label="John Rudd">
+        <attvalues>
+          <attvalue for="attribute" value="Executive Producer"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.17145688800792863"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.21751995595926224"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="522.9118" y="-13.09363"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Peter Maund" label="Peter Maund">
+        <attvalues>
+          <attvalue for="attribute" value="News Editor"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.295221843003413"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.34565097715386744"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-177.16287" y="-4.974083"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Peter Hansford" label="Peter Hansford">
+        <attvalues>
+          <attvalue for="attribute" value="Camera operator"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.295221843003413"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.34565097715386744"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-126.851105" y="44.572212"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Peter Tammer" label="Peter Tammer">
+        <attvalues>
+          <attvalue for="attribute" value="Independent filmmaker"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.25441176470588234"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.30698458574181187"></attvalue>
+          <attvalue for="betweenesscentrality" value="42.25"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-145.7103" y="373.3291"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Peter McKinley" label="Peter McKinley">
+        <attvalues>
+          <attvalue for="attribute" value="Sound recordist/mixer 'The Automated Mariner'"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2562962962962963"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.30881502890173473"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="38.934097" y="406.23755"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Paul Cox" label="Paul Cox">
+        <attvalues>
+          <attvalue for="attribute" value="Independent filmmaker"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.25441176470588234"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.30698458574181187"></attvalue>
+          <attvalue for="betweenesscentrality" value="42.25"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-118.637115" y="381.84702"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Peter Davies" label="Peter Davies">
+        <attvalues>
+          <attvalue for="attribute" value="Music composer"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2562962962962963"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.30881502890173473"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="54.718014" y="453.56204"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Keith Ballard" label="Keith Ballard">
+        <attvalues>
+          <attvalue for="attribute" value="Camera operator"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.295221843003413"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.34565097715386744"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-73.93444" y="3.066666"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Dave Allen" label="Dave Allen">
+        <attvalues>
+          <attvalue for="attribute" value="Headliner for 'Tonight with Dave Allen'"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2629179331306991"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.32336223506743805"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-273.6338" y="146.16925"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Geoff Kilburn" label="Geoff Kilburn">
+        <attvalues>
+          <attvalue for="attribute" value="Sound man for 'Night-watch'"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.295221843003413"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.34565097715386744"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-154.94824" y="37.15625"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Fanfare Films Pty Ltd" label="Fanfare Films Pty Ltd">
+        <attvalues>
+          <attvalue for="attribute" value="Melbourne"></attvalue>
+          <attvalue for="category" value="channel"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.26533742331288346"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.323362235067438"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.2"></attvalue>
+        </attvalues>
+        <viz:size value="11.95122"></viz:size>
+        <viz:position x="-50.954212" y="71.73776"></viz:position>
+        <viz:color r="122" g="0" b="37"></viz:color>
+      </node>
+      <node id="The Film House Pty Ltd" label="The Film House Pty Ltd">
+        <attvalues>
+          <attvalue for="attribute" value="Melbourne"></attvalue>
+          <attvalue for="category" value="channel"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2392807745504841"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2761560693641625"></attvalue>
+          <attvalue for="betweenesscentrality" value="8.878571428571428"></attvalue>
+        </attvalues>
+        <viz:size value="11.95122"></viz:size>
+        <viz:position x="-28.077383" y="49.01498"></viz:position>
+        <viz:color r="122" g="0" b="37"></viz:color>
+      </node>
+      <node id="Fred Schepisi" label="Fred Schepisi">
+        <attvalues>
+          <attvalue for="attribute" value="Director"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.25441176470588234"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.30698458574181187"></attvalue>
+          <attvalue for="betweenesscentrality" value="19.789676989677012"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-17.530724" y="75.0723"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Frank Packer" label="Frank Packer">
+        <attvalues>
+          <attvalue for="attribute" value="Nine Network Media Proprietor"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2763578274760383"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3532273603082857"></attvalue>
+          <attvalue for="betweenesscentrality" value="688.0730103230107"></attvalue>
+        </attvalues>
+        <viz:size value="12.926829"></viz:size>
+        <viz:position x="-311.31848" y="69.683365"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Michael David Dyer" label="Michael David Dyer">
+        <attvalues>
+          <attvalue for="attribute" value="Producer of 'It Could Be You'/ regular panellist on Bert Newton's 'New Faces'"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.295221843003413"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.34565097715386744"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-180.86566" y="20.668926"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Tommy Hanlon" label="Tommy Hanlon">
+        <attvalues>
+          <attvalue for="attribute" value="Host of 'It Could Be You'"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.295221843003413"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.34565097715386744"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-111.64917" y="23.20954"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Bill Beams" label="Bill Beams">
+        <attvalues>
+          <attvalue for="attribute" value="Camera operator/ IMT Producer"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.295221843003413"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.34565097715386744"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-100.91966" y="45.011086"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Bob Walters" label="Bob Walters">
+        <attvalues>
+          <attvalue for="attribute" value="Newsreader (News Headlines/Sports review)"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.295221843003413"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.34565097715386744"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-135.92545" y="22.146736"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Ray Barnes" label="Ray Barnes">
+        <attvalues>
+          <attvalue for="attribute" value="Manager"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2562962962962963"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.30881502890173473"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="54.951866" y="426.37573"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Bruce McNaughton" label="Bruce McNaughton">
+        <attvalues>
+          <attvalue for="attribute" value="Melbourne Director/producer, organised Palais theatre screening"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2562962962962963"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.30881502890173473"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="4.3379936" y="479.0926"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Norman Laird" label="Norman Laird">
+        <attvalues>
+          <attvalue for="attribute" value="Producer"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2562962962962963"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.30881502890173473"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="34.17934" y="476.72778"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Rodney J. Biddle" label="Rodney J. Biddle">
+        <attvalues>
+          <attvalue for="attribute" value="Chief Engineer"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.295221843003413"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.34565097715386744"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-87.78305" y="22.474943"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Harry Lloyd" label="Harry Lloyd">
+        <attvalues>
+          <attvalue for="attribute" value="Manager"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2562962962962963"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.30881502890173473"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-10.317135" y="414.7061"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Rodney Mush" label="Rodney Mush">
+        <attvalues>
+          <attvalue for="attribute" value="Camera operator"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2562962962962963"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.30881502890173473"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-17.48247" y="464.08853"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Tony Hope" label="Tony Hope">
+        <attvalues>
+          <attvalue for="attribute" value="Camera operator on 'Nighwatch'"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.295221843003413"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.34565097715386744"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-58.86892" y="-16.215088"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Don (Donald) Anderson" label="Don (Donald) Anderson">
+        <attvalues>
+          <attvalue for="attribute" value="Director/Camera operator"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2562962962962963"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.30881502890173473"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-22.851032" y="439.32733"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Gert Kirchner" label="Gert Kirchner">
+        <attvalues>
+          <attvalue for="attribute" value="Camera operator"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2562962962962963"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.30881502890173473"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-35.056286" y="417.10495"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Chris Morgan" label="Chris Morgan">
+        <attvalues>
+          <attvalue for="attribute" value="Assistant Cinematographer/camera operator"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2562962962962963"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.30881502890173473"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="13.882075" y="401.16937"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Nigel Buesst" label="Nigel Buesst">
+        <attvalues>
+          <attvalue for="attribute" value="Independent filmmaker"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.25441176470588234"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.30698458574181187"></attvalue>
+          <attvalue for="betweenesscentrality" value="42.25"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-112.92781" y="410.54007"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Melbourne Film-maker's Co-op" label="Melbourne Film-maker's Co-op">
+        <attvalues>
+          <attvalue for="attribute" value="Melbourne"></attvalue>
+          <attvalue for="category" value="channel"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2044917257683215"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2409762363519589"></attvalue>
+          <attvalue for="betweenesscentrality" value="3.0"></attvalue>
+        </attvalues>
+        <viz:size value="12.926829"></viz:size>
+        <viz:position x="-139.76208" y="401.56213"></viz:position>
+        <viz:color r="122" g="0" b="37"></viz:color>
+      </node>
+      <node id="Giorgio Mangiamele" label="Giorgio Mangiamele">
+        <attvalues>
+          <attvalue for="attribute" value="Independent filmmaker"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.25441176470588234"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.30698458574181187"></attvalue>
+          <attvalue for="betweenesscentrality" value="42.25"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-166.99615" y="393.64847"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Tim Burstall" label="Tim Burstall">
+        <attvalues>
+          <attvalue for="attribute" value="Film Director"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2536656891495601"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3031310211946057"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-90.93851" y="316.8072"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Ron Headford" label="Ron Headford">
+        <attvalues>
+          <attvalue for="attribute" value="Cinecameraman"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.295221843003413"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.34565097715386744"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-58.39105" y="-40.98111"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Barry Pierce" label="Barry Pierce">
+        <attvalues>
+          <attvalue for="attribute" value="Writer/director"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2562962962962963"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.30881502890173473"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-8.619714" y="389.74973"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Gordon Leed" label="Gordon Leed">
+        <attvalues>
+          <attvalue for="attribute" value="Newsreader (News/newsreel)"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.295221843003413"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.34565097715386744"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-158.2426" y="12.174577"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Sam Lipski" label="Sam Lipski">
+        <attvalues>
+          <attvalue for="attribute" value="Television news reporter"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.295221843003413"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.34565097715386744"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-63.90994" y="-64.50561"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Wendy Gilmore" label="Wendy Gilmore">
+        <attvalues>
+          <attvalue for="attribute" value="Melbourne Actress (starred in Bale's 'Asylum')"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2536656891495601"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3031310211946057"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-53.11938" y="310.1407"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Warren Denning" label="Warren Denning">
+        <attvalues>
+          <attvalue for="attribute" value="ABC Canberra First Political Correspondent for Bulletin"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="11.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.14939550949913644"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.16944089949870292"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="124.28869" y="608.30365"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Warwick Curtis" label="Warwick Curtis">
+        <attvalues>
+          <attvalue for="attribute" value="Cameraman/photographer"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="11.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.1495246326707001"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.17233107290910754"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="140.97049" y="579.50543"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Neil Davis" label="Neil Davis">
+        <attvalues>
+          <attvalue for="attribute" value="News/ Tasmanian Government Film unit Cameraman"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.21071863580998781"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2550417469492613"></attvalue>
+          <attvalue for="betweenesscentrality" value="840.0"></attvalue>
+        </attvalues>
+        <viz:size value="11.95122"></viz:size>
+        <viz:position x="82.72337" y="519.9449"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Maurice Hallam" label="Maurice Hallam">
+        <attvalues>
+          <attvalue for="attribute" value="News Correspondent"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="11.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.1495246326707001"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.17233107290910754"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="150.92046" y="555.8597"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="John Mills" label="John Mills">
+        <attvalues>
+          <attvalue for="attribute" value="Political Jounralist and Foreign Correspondent"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2258485639686684"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.26264106798788833"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="434.4297" y="-144.49731"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Geraldine Doogue" label="Geraldine Doogue">
+        <attvalues>
+          <attvalue for="attribute" value="Nationwide' host/ ABC Sydney 'The National' Co-host"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2261437908496732"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2655312413982929"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.1000000000000005"></attvalue>
+        </attvalues>
+        <viz:size value="11.95122"></viz:size>
+        <viz:position x="429.00034" y="-172.1144"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Ian Carroll" label="Ian Carroll">
+        <attvalues>
+          <attvalue for="attribute" value="Television Producer '7.30 report'"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2235142118863049"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.254933938893476"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="441.47946" y="-279.8198"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Allan Hogan" label="Allan Hogan">
+        <attvalues>
+          <attvalue for="attribute" value="60 mintues producer"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2235142118863049"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.254933938893476"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="451.83966" y="-212.55972"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="John Turner" label="John Turner">
+        <attvalues>
+          <attvalue for="attribute" value="Television Producer (came up with the name the '7.30 report')"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2235142118863049"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.254933938893476"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="464.23615" y="-264.1845"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="David Hill" label="David Hill">
+        <attvalues>
+          <attvalue for="attribute" value="Managing Director"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2235142118863049"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.254933938893476"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="469.45758" y="-235.71938"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Phil Wallington" label="Phil Wallington">
+        <attvalues>
+          <attvalue for="attribute" value="Presenter 'This Day Tonight'/ ABC Sydney 'The 7.30 Report' producer"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2261437908496732"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2655312413982929"></attvalue>
+          <attvalue for="betweenesscentrality" value="2.1000000000000005"></attvalue>
+        </attvalues>
+        <viz:size value="11.95122"></viz:size>
+        <viz:position x="426.68933" y="-199.4348"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Alan Carpenter" label="Alan Carpenter">
+        <attvalues>
+          <attvalue for="attribute" value="Presenter 'The 7.30 Report'"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2258485639686684"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.26264106798788833"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="402.44366" y="-161.17354"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Steve Taylor" label="Steve Taylor">
+        <attvalues>
+          <attvalue for="attribute" value="Reporter and became an ABC senior executive"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2258485639686684"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.26264106798788833"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="373.87622" y="-154.6831"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Brooke Bayvel" label="Brooke Bayvel">
+        <attvalues>
+          <attvalue for="attribute" value="Supervising Executive Producer"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2258485639686684"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.26264106798788833"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="355.73093" y="-135.60558"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Kerry O'Brien" label="Kerry O'Brien">
+        <attvalues>
+          <attvalue for="attribute" value="Presenter of 'The 7.30 Report' National program"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2235142118863049"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.254933938893476"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="415.29678" y="-274.78012"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Liam Bartlett" label="Liam Bartlett">
+        <attvalues>
+          <attvalue for="attribute" value="The 7.30 Report'"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="6.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.3301526717557252"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.36955684007707146"></attvalue>
+          <attvalue for="betweenesscentrality" value="6292.0"></attvalue>
+        </attvalues>
+        <viz:size value="11.95122"></viz:size>
+        <viz:position x="160.19553" y="-88.55753"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Andrew Olle" label="Andrew Olle">
+        <attvalues>
+          <attvalue for="attribute" value="News cadet for  The 7.30 Report, ABC Radio 2BL, Sydney, Nationwide, Four Corners"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2235142118863049"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.254933938893476"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="400.0392" y="-248.88684"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Mark Scott" label="Mark Scott">
+        <attvalues>
+          <attvalue for="attribute" value="Managing Director"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2235142118863049"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.254933938893476"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="390.62024" y="-272.05942"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Rupert Murdoch" label="Rupert Murdoch">
+        <attvalues>
+          <attvalue for="attribute" value="Owner"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="11.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.14913793103448275"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.191456263710599"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="740.2894" y="-54.85099"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="The Sunday Times" label="The Sunday Times">
+        <attvalues>
+          <attvalue for="attribute" value="Perth"></attvalue>
+          <attvalue for="category" value="channel"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="11.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.14926660914581535"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.19434643712100375"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.5"></attvalue>
+        </attvalues>
+        <viz:size value="11.95122"></viz:size>
+        <viz:position x="760.3483" y="-37.300995"></viz:position>
+        <viz:color r="122" g="0" b="37"></viz:color>
+      </node>
+      <node id="Red Harrison" label="Red Harrison">
+        <attvalues>
+          <attvalue for="attribute" value="Editor"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="11.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.14913793103448275"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.191456263710599"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="747.04065" y="-14.243852"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Barry Farmer" label="Barry Farmer">
+        <attvalues>
+          <attvalue for="attribute" value="Journalist"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="11.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.1495246326707001"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.19434643712100372"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="657.39154" y="26.950937"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Robert Holmes a Court" label="Robert Holmes a Court">
+        <attvalues>
+          <attvalue for="attribute" value="Owner (Robert Holmes a Court�s Bell Group)/ merger TVW Enterprises Ltd"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.17265469061876249"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2261904761904762"></attvalue>
+          <attvalue for="betweenesscentrality" value="1.3333333333333333"></attvalue>
+        </attvalues>
+        <viz:size value="11.95122"></viz:size>
+        <viz:position x="622.89966" y="-0.7178993"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Tim Boase" label="Tim Boase">
+        <attvalues>
+          <attvalue for="attribute" value="Helicopter pilot"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.17213930348258707"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2213735205064684"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="634.36743" y="-57.12974"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Bill McKenzie" label="Bill McKenzie">
+        <attvalues>
+          <attvalue for="attribute" value="Managing Director"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.17213930348258707"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2213735205064684"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="603.77075" y="-90.5783"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Glenys Gill" label="Glenys Gill">
+        <attvalues>
+          <attvalue for="attribute" value="Program Manager"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.17213930348258707"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2213735205064684"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="628.6969" y="-82.99697"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Kevin Campbell" label="Kevin Campbell">
+        <attvalues>
+          <attvalue for="attribute" value="Managing Director"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.17213930348258707"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2213735205064684"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="605.84973" y="-21.170345"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Sir James Winter Cruthers" label="Sir James Winter Cruthers">
+        <attvalues>
+          <attvalue for="attribute" value="Founding General Manager"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.17213930348258707"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2213735205064684"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="631.72546" y="-26.411402"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Brian Treasure" label="Brian Treasure">
+        <attvalues>
+          <attvalue for="attribute" value="Founding General Manager"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.17213930348258707"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2213735205064684"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="611.34924" y="-67.098564"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Tim Worner" label="Tim Worner">
+        <attvalues>
+          <attvalue for="attribute" value="Director of Programming and Production/currently the the head of the Seven Network"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.17213930348258707"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2213735205064684"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="614.59064" y="-43.352276"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Bill Eldridge" label="Bill Eldridge">
+        <attvalues>
+          <attvalue for="attribute" value="Producer/Director"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2232258064516129"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2539705477566745"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="413.23642" y="-71.13192"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Jim Fitzmaurice" label="Jim Fitzmaurice">
+        <attvalues>
+          <attvalue for="attribute" value="Sports Broadcaster"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2232258064516129"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2539705477566745"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="432.79147" y="-86.40451"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Mike Altria" label="Mike Altria">
+        <attvalues>
+          <attvalue for="attribute" value="Tech Producer/ head of outside broadcasts"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2232258064516129"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2539705477566745"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="363.78275" y="-83.76781"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Bob Willcox" label="Bob Willcox">
+        <attvalues>
+          <attvalue for="attribute" value="State programme director/ newsreader"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="8.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2232258064516129"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2539705477566745"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="353.66138" y="-106.59877"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Peter Meakin" label="Peter Meakin">
+        <attvalues>
+          <attvalue for="attribute" value="Journalist"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.22823218997361477"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.281920359666024"></attvalue>
+          <attvalue for="betweenesscentrality" value="6.2666666666666595"></attvalue>
+        </attvalues>
+        <viz:size value="11.95122"></viz:size>
+        <viz:position x="-349.22763" y="90.51356"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="David Leckie" label="David Leckie">
+        <attvalues>
+          <attvalue for="attribute" value="Chief Executive Office/ Managing Director"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2972508591065292"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.3536471235893201"></attvalue>
+          <attvalue for="betweenesscentrality" value="1189.9035880785884"></attvalue>
+        </attvalues>
+        <viz:size value="12.926829"></viz:size>
+        <viz:position x="-277.79483" y="58.11003"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Sydney Daily Mirror" label="Sydney Daily Mirror">
+        <attvalues>
+          <attvalue for="attribute" value="Sydney"></attvalue>
+          <attvalue for="category" value="channel"></attvalue>
+          <attvalue for="weighted degree" value="6.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.20843373493975903"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.26021653362693825"></attvalue>
+          <attvalue for="betweenesscentrality" value="5.0"></attvalue>
+        </attvalues>
+        <viz:size value="14.878049"></viz:size>
+        <viz:position x="-511.798" y="206.00005"></viz:position>
+        <viz:color r="122" g="0" b="37"></viz:color>
+      </node>
+      <node id="Ted Simmons" label="Ted Simmons">
+        <attvalues>
+          <attvalue for="attribute" value="Journalist"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.20743405275779375"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.24865583998531976"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-523.3668" y="234.48767"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Anna Murdoch" label="Anna Murdoch">
+        <attvalues>
+          <attvalue for="attribute" value="Journalist/intern"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.20743405275779375"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.24865583998531976"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-492.21738" y="230.32448"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Josephine Blanche d'Alpuget" label="Josephine Blanche d'Alpuget">
+        <attvalues>
+          <attvalue for="attribute" value="Journalist/intern"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.20743405275779375"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.24865583998531976"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-506.897" y="175.45981"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Janet Hawley" label="Janet Hawley">
+        <attvalues>
+          <attvalue for="attribute" value="Journalist/intern"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.20743405275779375"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.24865583998531976"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-481.2559" y="202.26555"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Michael Ramsden" label="Michael Ramsden">
+        <attvalues>
+          <attvalue for="attribute" value="News Director"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.20743405275779375"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.24865583998531976"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-537.3046" y="188.80347"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Chuck Faulkner" label="Chuck Faulkner">
+        <attvalues>
+          <attvalue for="attribute" value="Newsreader"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.22793148880105402"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.27903018625561943"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-366.046" y="164.0294"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Brian Henderson" label="Brian Henderson">
+        <attvalues>
+          <attvalue for="attribute" value="Newsreader"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.22793148880105402"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.27903018625561943"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-344.3864" y="185.694"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Barry Matheson" label="Barry Matheson">
+        <attvalues>
+          <attvalue for="attribute" value="Reporter"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.22793148880105402"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.27903018625561943"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-320.5021" y="174.00497"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Greg Grainger" label="Greg Grainger">
+        <attvalues>
+          <attvalue for="attribute" value="Reporter"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.22793148880105402"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.27903018625561943"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-378.19025" y="132.63625"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Kerry Packer" label="Kerry Packer">
+        <attvalues>
+          <attvalue for="attribute" value="Nine Network Media Proprietor"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.22793148880105402"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.27903018625561943"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-358.46704" y="116.58636"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Ian Cook" label="Ian Cook">
+        <attvalues>
+          <attvalue for="attribute" value="Chief Operator Officer/ News Director"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="4.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.22883597883597884"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.28577392421323017"></attvalue>
+          <attvalue for="betweenesscentrality" value="178.2666666666667"></attvalue>
+        </attvalues>
+        <viz:size value="12.926829"></viz:size>
+        <viz:position x="-384.99646" y="103.60856"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Tracy Grimshhaw" label="Tracy Grimshhaw">
+        <attvalues>
+          <attvalue for="attribute" value="Today Australia' Host/ reporter"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.22793148880105402"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.27903018625561943"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-296.08923" y="167.08298"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Monte Dwyer" label="Monte Dwyer">
+        <attvalues>
+          <attvalue for="attribute" value="Today Australia' Weatherman"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.22793148880105402"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.27903018625561943"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-355.7316" y="141.56656"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Jim Waley" label="Jim Waley">
+        <attvalues>
+          <attvalue for="attribute" value="Presenter"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.22793148880105402"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.27903018625561943"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-341.35907" y="161.3445"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Chris Willis" label="Chris Willis">
+        <attvalues>
+          <attvalue for="attribute" value="News Director"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.20743405275779375"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.24865583998531976"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-405.66397" y="81.048836"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Chris Bath" label="Chris Bath">
+        <attvalues>
+          <attvalue for="attribute" value="Weekend Presenter"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.20743405275779375"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.24865583998531976"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-403.11075" y="55.05022"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="TEN" label="TEN">
+        <attvalues>
+          <attvalue for="attribute" value="Sydney"></attvalue>
+          <attvalue for="category" value="channel"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="10.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.18642241379310345"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.21553582897513532"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-414.3551" y="105.21714"></viz:position>
+        <viz:color r="122" g="0" b="37"></viz:color>
+      </node>
+      <node id="Peter Finch" label="Peter Finch">
+        <attvalues>
+          <attvalue for="attribute" value="Australian Actor"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2044917257683215"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.23324158179649515"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-300.47333" y="-75.13541"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Ron Randell" label="Ron Randell">
+        <attvalues>
+          <attvalue for="attribute" value="Australian Actor"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2044917257683215"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.23324158179649515"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-289.15164" y="-137.78688"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Mignon Doherty" label="Mignon Doherty">
+        <attvalues>
+          <attvalue for="attribute" value="Australian Actor"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2044917257683215"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.23324158179649515"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-309.62482" y="-122.36255"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Rolf Harris" label="Rolf Harris">
+        <attvalues>
+          <attvalue for="attribute" value="Australian Entertainer"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="1.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.2044917257683215"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.23324158179649515"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-313.07355" y="-97.55215"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Eric Pearce" label="Eric Pearce">
+        <attvalues>
+          <attvalue for="attribute" value="Newsreader"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="7.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.28500823723228996"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.333608587943848"></attvalue>
+          <attvalue for="betweenesscentrality" value="550.1690476190479"></attvalue>
+        </attvalues>
+        <viz:size value="11.95122"></viz:size>
+        <viz:position x="-200.04391" y="-81.022446"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Dan Webb" label="Dan Webb">
+        <attvalues>
+          <attvalue for="attribute" value="Newsreader"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.20918984280532044"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.24287549316451051"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-228.31935" y="-154.0305"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Geoff Raymond" label="Geoff Raymond">
+        <attvalues>
+          <attvalue for="attribute" value="Newsreader/ 'The Raymond Report' Host"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="3.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.22293814432989692"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.2754381135884026"></attvalue>
+          <attvalue for="betweenesscentrality" value="103.01190476190474"></attvalue>
+        </attvalues>
+        <viz:size value="11.95122"></viz:size>
+        <viz:position x="-177.91277" y="-208.18002"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Colin Fraser" label="Colin Fraser">
+        <attvalues>
+          <attvalue for="attribute" value="Station program manager"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.20918984280532044"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.24287549316451051"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-235.78761" y="-129.21806"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+      <node id="Keith Cairns" label="Keith Cairns">
+        <attvalues>
+          <attvalue for="attribute" value="General manager"></attvalue>
+          <attvalue for="category" value="member"></attvalue>
+          <attvalue for="weighted degree" value="2.0"></attvalue>
+          <attvalue for="eccentricity" value="9.0"></attvalue>
+          <attvalue for="closnesscentrality" value="0.20918984280532044"></attvalue>
+          <attvalue for="harmonicclosnesscentrality" value="0.24287549316451051"></attvalue>
+          <attvalue for="betweenesscentrality" value="0.0"></attvalue>
+        </attvalues>
+        <viz:size value="10.97561"></viz:size>
+        <viz:position x="-222.25641" y="-106.01224"></viz:position>
+        <viz:color r="224" g="225" b="255"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="670" source="Geoff Grant" target="GTV-9"></edge>
+      <edge id="671" source="Geoff Grant" target="Herald Sun"></edge>
+      <edge id="672" source="Geoff Grant" target="ADS-7"></edge>
+      <edge id="673" source="Geoff Grant" target="ATV-0"></edge>
+      <edge id="674" source="Howard Gretton" target="ABC Perth"></edge>
+      <edge id="675" source="Howard Gretton" target="TVW-7"></edge>
+      <edge id="676" source="Rick Ardon" target="TVW-7"></edge>
+      <edge id="677" source="John Bale" target="GTV-9"></edge>
+      <edge id="678" source="John Bale" target="TCN-9"></edge>
+      <edge id="679" source="John Bale" target="Tasmanian Government Film Unit"></edge>
+      <edge id="680" source="Dorothy Hallam" target="ABC Tasmania"></edge>
+      <edge id="681" source="Kim Jordan" target="Daily News"></edge>
+      <edge id="682" source="Kim Jordan" target="ABC Sydney"></edge>
+      <edge id="683" source="Kim Jordan" target="ABC Perth"></edge>
+      <edge id="684" source="Stuart Joynt" target="TVW-7"></edge>
+      <edge id="685" source="Stuart Joynt" target="The West Australian"></edge>
+      <edge id="686" source="Stuart Joynt" target="SAS TV"></edge>
+      <edge id="687" source="Voja Milasich" target="ABC Perth"></edge>
+      <edge id="688" source="Ian Ross" target="TCN-9"></edge>
+      <edge id="689" source="Ian Ross" target="ATN-7"></edge>
+      <edge id="690" source="Mary Parker" target="HSV-7"></edge>
+      <edge id="691" source="Geoff Grant" target="Graham Kennedy"></edge>
+      <edge id="692" source="Geoff Grant" target="John Casamento"></edge>
+      <edge id="693" source="Geoff Grant" target="Keith McDonald"></edge>
+      <edge id="694" source="Geoff Grant" target="Lynton Taylor"></edge>
+      <edge id="695" source="Geoff Grant" target="Neville Thomson"></edge>
+      <edge id="696" source="Geoff Grant" target="Norm Spencer"></edge>
+      <edge id="697" source="Geoff Grant" target="Tony Charlton"></edge>
+      <edge id="698" source="Geoff Grant" target="Tony Roberts"></edge>
+      <edge id="699" source="Geoff Grant" target="Maree Tomasetti"></edge>
+      <edge id="700" source="Geoff Grant" target="Bert Newton"></edge>
+      <edge id="701" source="Geoff Grant" target="Bobby Limb"></edge>
+      <edge id="702" source="Geoff Grant" target="Bob Dyer"></edge>
+      <edge id="703" source="Geoff Grant" target="Rod Kinnear"></edge>
+      <edge id="704" source="Geoff Grant" target="Michael Browning"></edge>
+      <edge id="705" source="Geoff Grant" target="Mal Bryning"></edge>
+      <edge id="706" source="Geoff Grant" target="Michael Schildberger"></edge>
+      <edge id="707" source="Geoff Grant" target="Michael Pate"></edge>
+      <edge id="708" source="Geoff Grant" target="Tom Miller"></edge>
+      <edge id="709" source="Geoff Grant" target="Binnie Lum"></edge>
+      <edge id="710" source="Geoff Grant" target="David Bell"></edge>
+      <edge id="711" source="Geoff Grant" target="Ted Craig"></edge>
+      <edge id="712" source="Geoff Grant" target="Fred Maxian"></edge>
+      <edge id="713" source="Geoff Grant" target="Trevor Ling"></edge>
+      <edge id="714" source="Geoff Grant" target="Brian Thompson"></edge>
+      <edge id="715" source="Geoff Grant" target="Ian Crawford"></edge>
+      <edge id="716" source="Geoff Grant" target="Peter Cellier"></edge>
+      <edge id="717" source="Geoff Grant" target="Arthur George Warner"></edge>
+      <edge id="718" source="Graham Kennedy" target="GTV-9"></edge>
+      <edge id="719" source="John Casamento" target="Herald Sun"></edge>
+      <edge id="720" source="Keith McDonald" target="ADS-7"></edge>
+      <edge id="721" source="Lynton Taylor" target="GTV-9"></edge>
+      <edge id="722" source="Neville Thomson" target="ADS-7"></edge>
+      <edge id="723" source="Norm Spencer" target="GTV-9"></edge>
+      <edge id="724" source="Norm Spencer" target="HSV-7"></edge>
+      <edge id="725" source="Tony Charlton" target="GTV-9"></edge>
+      <edge id="726" source="Tony Charlton" target="HSV-7"></edge>
+      <edge id="727" source="Tony Roberts" target="ADS-7"></edge>
+      <edge id="728" source="Maree Tomasetti" target="ADS-7"></edge>
+      <edge id="729" source="Bert Newton" target="GTV-9"></edge>
+      <edge id="730" source="Bobby Limb" target="ADS-7"></edge>
+      <edge id="731" source="Bob Dyer" target="TCN-9"></edge>
+      <edge id="732" source="Bob Dyer" target="GTV-9"></edge>
+      <edge id="733" source="Rod Kinnear" target="GTV-9"></edge>
+      <edge id="734" source="Michael Browning" target="GTV-9"></edge>
+      <edge id="735" source="Mal Bryning" target="GTV-9"></edge>
+      <edge id="736" source="Michael Schildberger" target="GTV-9"></edge>
+      <edge id="737" source="Michael Pate" target="GTV-9"></edge>
+      <edge id="738" source="Tom Miller" target="GTV-9"></edge>
+      <edge id="739" source="Binnie Lum" target="GTV-9"></edge>
+      <edge id="740" source="David Bell" target="ADS-7"></edge>
+      <edge id="741" source="Ted Craig" target="ADS-7"></edge>
+      <edge id="742" source="Fred Maxian" target="ADS-7"></edge>
+      <edge id="743" source="Trevor Ling" target="ADS-7"></edge>
+      <edge id="744" source="Brian Thompson" target="ADS-7"></edge>
+      <edge id="745" source="Ian Crawford" target="GTV-9"></edge>
+      <edge id="746" source="Peter Cellier" target="ADS-7"></edge>
+      <edge id="747" source="Arthur George Warner" target="ASTER TV Radio Corporation"></edge>
+      <edge id="748" source="ASTER TV Radio Corporation" target="GTV-9"></edge>
+      <edge id="749" source="Geoff Grant" target="Ray Taylor"></edge>
+      <edge id="750" source="Ray Taylor" target="ATV-0"></edge>
+      <edge id="751" source="Geoff Grant" target="Godfrey Phillip"></edge>
+      <edge id="752" source="Godfrey Phillip" target="ATV-0"></edge>
+      <edge id="753" source="Geoff Grant" target="Johnny Young"></edge>
+      <edge id="754" source="Johnny Young" target="ATV-0"></edge>
+      <edge id="755" source="Geoff Grant" target="Ian Turpie"></edge>
+      <edge id="756" source="Ian Turpie" target="ATV-0"></edge>
+      <edge id="757" source="Geoff Grant" target="Tedd Dunn"></edge>
+      <edge id="758" source="Geoff Grant" target="John Farrar"></edge>
+      <edge id="759" source="Geoff Grant" target="Pat Carrol"></edge>
+      <edge id="760" source="Geoff Grant" target="Olivia Newton-John"></edge>
+      <edge id="761" source="Geoff Grant" target="Ken Sparkes"></edge>
+      <edge id="762" source="Tedd Dunn" target="ATV-0"></edge>
+      <edge id="763" source="John Farrar" target="ATV-0"></edge>
+      <edge id="764" source="Pat Carrol" target="ATV-0"></edge>
+      <edge id="765" source="Olivia Newton-John" target="ATV-0"></edge>
+      <edge id="766" source="Ken Sparkes" target="ATV-0"></edge>
+      <edge id="767" source="Barry McQueen" target="ATV-0"></edge>
+      <edge id="768" source="Geoff Grant" target="Barry McQueen"></edge>
+      <edge id="769" source="Howard Gretton" target="Geof Parry"></edge>
+      <edge id="770" source="Howard Gretton" target="Bill King"></edge>
+      <edge id="771" source="Howard Gretton" target="John Mort"></edge>
+      <edge id="772" source="Howard Gretton" target="Alison Fan"></edge>
+      <edge id="773" source="Howard Gretton" target="Michael Goodall"></edge>
+      <edge id="774" source="Howard Gretton" target="Kim Jordan"></edge>
+      <edge id="775" source="Howard Gretton" target="Chris Hunt"></edge>
+      <edge id="776" source="Howard Gretton" target="Dale O'Neill"></edge>
+      <edge id="777" source="Howard Gretton" target="Phil Sylvester"></edge>
+      <edge id="778" source="Geof Parry" target="TVW-7"></edge>
+      <edge id="779" source="Geof Parry" target="ABC Perth"></edge>
+      <edge id="780" source="Bill King" target="The West Australian"></edge>
+      <edge id="781" source="John Mort" target="TVW-7"></edge>
+      <edge id="782" source="Alison Fan" target="TVW-7"></edge>
+      <edge id="783" source="Michael Goodall" target="ABC Perth"></edge>
+      <edge id="784" source="Kim Jordan" target="ABC Perth"></edge>
+      <edge id="785" source="Chris Hunt" target="TVW-7"></edge>
+      <edge id="786" source="Dale O'Neill" target="TVW-7"></edge>
+      <edge id="787" source="Phil Sylvester" target="TVW-7"></edge>
+      <edge id="788" source="Phil Sylvester" target="ABC Perth"></edge>
+      <edge id="789" source="Rick Ardon" target="The West Australian"></edge>
+      <edge id="790" source="Jim Dunbar" target="The West Australian"></edge>
+      <edge id="791" source="Rick Ardon" target="Susannah Carr"></edge>
+      <edge id="792" source="Rick Ardon" target="Howard Gretton"></edge>
+      <edge id="793" source="Rick Ardon" target="David Cooper"></edge>
+      <edge id="794" source="Rick Ardon" target="John Rudd"></edge>
+      <edge id="795" source="Rick Ardon" target="Jim Dunbar"></edge>
+      <edge id="796" source="Susannah Carr" target="TVW-7"></edge>
+      <edge id="797" source="David Cooper" target="TVW-7"></edge>
+      <edge id="798" source="John Rudd" target="TVW-7"></edge>
+      <edge id="799" source="John Bale" target="Mal Bryning"></edge>
+      <edge id="800" source="John Bale" target="Michael Browning"></edge>
+      <edge id="801" source="Michael Browning" target="Fanfare Films Pty Ltd"></edge>
+      <edge id="802" source="Mal Bryning" target="Fanfare Films Pty Ltd"></edge>
+      <edge id="803" source="Fred Schepisi" target="The Film House Pty Ltd"></edge>
+      <edge id="804" source="Michael Browning" target="The Film House Pty Ltd"></edge>
+      <edge id="805" source="Mal Bryning" target="The Film House Pty Ltd"></edge>
+      <edge id="806" source="John Bale" target="Fanfare Films Pty Ltd"></edge>
+      <edge id="807" source="John Bale" target="Michael Schildberger"></edge>
+      <edge id="808" source="John Bale" target="Bert Newton"></edge>
+      <edge id="809" source="John Bale" target="Peter Maund"></edge>
+      <edge id="810" source="John Bale" target="Peter Hansford"></edge>
+      <edge id="811" source="John Bale" target="Peter Tammer"></edge>
+      <edge id="812" source="John Bale" target="Peter McKinley"></edge>
+      <edge id="813" source="John Bale" target="Paul Cox"></edge>
+      <edge id="814" source="John Bale" target="Peter Davies"></edge>
+      <edge id="815" source="John Bale" target="Keith Ballard"></edge>
+      <edge id="816" source="John Bale" target="Dave Allen"></edge>
+      <edge id="817" source="John Bale" target="Geoff Kilburn"></edge>
+      <edge id="818" source="John Bale" target="Fred Schepisi"></edge>
+      <edge id="819" source="John Bale" target="Frank Packer"></edge>
+      <edge id="820" source="John Bale" target="Michael David Dyer"></edge>
+      <edge id="821" source="John Bale" target="Tommy Hanlon"></edge>
+      <edge id="822" source="John Bale" target="Bill Beams"></edge>
+      <edge id="823" source="John Bale" target="Bob Walters"></edge>
+      <edge id="824" source="John Bale" target="Ray Barnes"></edge>
+      <edge id="825" source="John Bale" target="Bruce McNaughton"></edge>
+      <edge id="826" source="John Bale" target="Norman Laird"></edge>
+      <edge id="827" source="John Bale" target="Rodney J. Biddle"></edge>
+      <edge id="828" source="John Bale" target="Harry Lloyd"></edge>
+      <edge id="829" source="John Bale" target="Rodney Mush"></edge>
+      <edge id="830" source="John Bale" target="Tony Hope"></edge>
+      <edge id="831" source="John Bale" target="Don (Donald) Anderson"></edge>
+      <edge id="832" source="John Bale" target="Gert Kirchner"></edge>
+      <edge id="833" source="John Bale" target="Chris Morgan"></edge>
+      <edge id="834" source="John Bale" target="Nigel Buesst"></edge>
+      <edge id="835" source="John Bale" target="Giorgio Mangiamele"></edge>
+      <edge id="836" source="John Bale" target="Tim Burstall"></edge>
+      <edge id="837" source="John Bale" target="Ron Headford"></edge>
+      <edge id="838" source="John Bale" target="Barry Pierce"></edge>
+      <edge id="839" source="John Bale" target="Gordon Leed"></edge>
+      <edge id="840" source="John Bale" target="Sam Lipski"></edge>
+      <edge id="841" source="John Bale" target="Wendy Gilmore"></edge>
+      <edge id="842" source="Peter Tammer" target="Melbourne Film-maker's Co-op"></edge>
+      <edge id="843" source="Paul Cox" target="Melbourne Film-maker's Co-op"></edge>
+      <edge id="844" source="Nigel Buesst" target="Melbourne Film-maker's Co-op"></edge>
+      <edge id="845" source="Giorgio Mangiamele" target="Melbourne Film-maker's Co-op"></edge>
+      <edge id="846" source="Peter Maund" target="GTV-9"></edge>
+      <edge id="847" source="Peter Hansford" target="GTV-9"></edge>
+      <edge id="848" source="Keith Ballard" target="GTV-9"></edge>
+      <edge id="849" source="Geoff Kilburn" target="GTV-9"></edge>
+      <edge id="850" source="Michael David Dyer" target="GTV-9"></edge>
+      <edge id="851" source="Tommy Hanlon" target="GTV-9"></edge>
+      <edge id="852" source="Bill Beams" target="GTV-9"></edge>
+      <edge id="853" source="Bob Walters" target="GTV-9"></edge>
+      <edge id="854" source="Rodney J. Biddle" target="GTV-9"></edge>
+      <edge id="855" source="Tony Hope" target="GTV-9"></edge>
+      <edge id="856" source="Ron Headford" target="GTV-9"></edge>
+      <edge id="857" source="Gordon Leed" target="GTV-9"></edge>
+      <edge id="858" source="Sam Lipski" target="GTV-9"></edge>
+      <edge id="859" source="Frank Packer" target="TCN-9"></edge>
+      <edge id="860" source="Peter McKinley" target="Tasmanian Government Film Unit"></edge>
+      <edge id="861" source="Peter Davies" target="Tasmanian Government Film Unit"></edge>
+      <edge id="862" source="Dave Allen" target="TCN-9"></edge>
+      <edge id="863" source="John Bale" target="TCN-9"></edge>
+      <edge id="864" source="Ray Barnes" target="Tasmanian Government Film Unit"></edge>
+      <edge id="865" source="Bruce McNaughton" target="Tasmanian Government Film Unit"></edge>
+      <edge id="866" source="Norman Laird" target="Tasmanian Government Film Unit"></edge>
+      <edge id="867" source="Harry Lloyd" target="Tasmanian Government Film Unit"></edge>
+      <edge id="868" source="Rodney Mush" target="Tasmanian Government Film Unit"></edge>
+      <edge id="869" source="Don (Donald) Anderson" target="Tasmanian Government Film Unit"></edge>
+      <edge id="870" source="Gert Kirchner" target="Tasmanian Government Film Unit"></edge>
+      <edge id="871" source="Chris Morgan" target="Tasmanian Government Film Unit"></edge>
+      <edge id="872" source="Barry Pierce" target="Tasmanian Government Film Unit"></edge>
+      <edge id="873" source="Neil Davis" target="Tasmanian Government Film Unit"></edge>
+      <edge id="874" source="Dorothy Hallam" target="Warren Denning"></edge>
+      <edge id="875" source="Dorothy Hallam" target="Warwick Curtis"></edge>
+      <edge id="876" source="Dorothy Hallam" target="Neil Davis"></edge>
+      <edge id="877" source="Dorothy Hallam" target="Maurice Hallam"></edge>
+      <edge id="878" source="Warwick Curtis" target="ABC Tasmania"></edge>
+      <edge id="879" source="Neil Davis" target="ABC Tasmania"></edge>
+      <edge id="880" source="Maurice Hallam" target="ABC Tasmania"></edge>
+      <edge id="881" source="Kim Jordan" target="John Mills"></edge>
+      <edge id="882" source="Kim Jordan" target="Geraldine Doogue"></edge>
+      <edge id="883" source="Kim Jordan" target="Ian Carroll"></edge>
+      <edge id="884" source="Kim Jordan" target="Allan Hogan"></edge>
+      <edge id="885" source="Kim Jordan" target="John Turner"></edge>
+      <edge id="886" source="Kim Jordan" target="David Hill"></edge>
+      <edge id="887" source="Kim Jordan" target="Phil Wallington"></edge>
+      <edge id="888" source="Kim Jordan" target="Alan Carpenter"></edge>
+      <edge id="889" source="Kim Jordan" target="Steve Taylor"></edge>
+      <edge id="890" source="Kim Jordan" target="Brooke Bayvel"></edge>
+      <edge id="891" source="Kim Jordan" target="Kerry O'Brien"></edge>
+      <edge id="892" source="Kim Jordan" target="Liam Bartlett"></edge>
+      <edge id="893" source="Kim Jordan" target="Andrew Olle"></edge>
+      <edge id="894" source="Kim Jordan" target="Mark Scott"></edge>
+      <edge id="895" source="John Mills" target="ABC Perth"></edge>
+      <edge id="896" source="Geraldine Doogue" target="ABC Perth"></edge>
+      <edge id="897" source="Geraldine Doogue" target="ABC Sydney"></edge>
+      <edge id="898" source="Ian Carroll" target="ABC Sydney"></edge>
+      <edge id="899" source="Allan Hogan" target="ABC Sydney"></edge>
+      <edge id="900" source="John Turner" target="ABC Sydney"></edge>
+      <edge id="901" source="David Hill" target="ABC Sydney"></edge>
+      <edge id="902" source="Phil Wallington" target="ABC Sydney"></edge>
+      <edge id="903" source="Phil Wallington" target="ABC Perth"></edge>
+      <edge id="904" source="Alan Carpenter" target="ABC Perth"></edge>
+      <edge id="905" source="Steve Taylor" target="ABC Perth"></edge>
+      <edge id="906" source="Brooke Bayvel" target="ABC Perth"></edge>
+      <edge id="907" source="Kerry O'Brien" target="ABC Sydney"></edge>
+      <edge id="908" source="Liam Bartlett" target="ABC Perth"></edge>
+      <edge id="909" source="Liam Bartlett" target="GTV-9"></edge>
+      <edge id="910" source="Andrew Olle" target="ABC Sydney"></edge>
+      <edge id="911" source="Mark Scott" target="ABC Sydney"></edge>
+      <edge id="912" source="Stuart Joynt" target="Alison Fan"></edge>
+      <edge id="913" source="Rupert Murdoch" target="The Sunday Times"></edge>
+      <edge id="914" source="Stuart Joynt" target="The Sunday Times"></edge>
+      <edge id="915" source="Red Harrison" target="The Sunday Times"></edge>
+      <edge id="916" source="Barry Farmer" target="The West Australian"></edge>
+      <edge id="917" source="Robert Holmes a Court" target="The West Australian"></edge>
+      <edge id="918" source="Robert Holmes a Court" target="TVW-7"></edge>
+      <edge id="919" source="Tim Boase" target="TVW-7"></edge>
+      <edge id="920" source="Bill McKenzie" target="TVW-7"></edge>
+      <edge id="921" source="Glenys Gill" target="TVW-7"></edge>
+      <edge id="922" source="Kevin Campbell" target="TVW-7"></edge>
+      <edge id="923" source="Sir James Winter Cruthers" target="TVW-7"></edge>
+      <edge id="924" source="Brian Treasure" target="TVW-7"></edge>
+      <edge id="925" source="Tim Worner" target="TVW-7"></edge>
+      <edge id="926" source="Stuart Joynt" target="Rupert Murdoch"></edge>
+      <edge id="927" source="Stuart Joynt" target="Red Harrison"></edge>
+      <edge id="928" source="Stuart Joynt" target="Barry Farmer"></edge>
+      <edge id="929" source="Stuart Joynt" target="Robert Holmes a Court"></edge>
+      <edge id="930" source="Stuart Joynt" target="Tim Boase"></edge>
+      <edge id="931" source="Stuart Joynt" target="Bill McKenzie"></edge>
+      <edge id="932" source="Stuart Joynt" target="Glenys Gill"></edge>
+      <edge id="933" source="Stuart Joynt" target="Kevin Campbell"></edge>
+      <edge id="934" source="Stuart Joynt" target="Sir James Winter Cruthers"></edge>
+      <edge id="935" source="Stuart Joynt" target="Brian Treasure"></edge>
+      <edge id="936" source="Stuart Joynt" target="Tim Worner"></edge>
+      <edge id="937" source="Voja Milasich" target="Bill Eldridge"></edge>
+      <edge id="938" source="Voja Milasich" target="Jim Fitzmaurice"></edge>
+      <edge id="939" source="Voja Milasich" target="Mike Altria"></edge>
+      <edge id="940" source="Voja Milasich" target="Bob Willcox"></edge>
+      <edge id="941" source="Bill Eldridge" target="ABC Perth"></edge>
+      <edge id="942" source="Jim Fitzmaurice" target="ABC Perth"></edge>
+      <edge id="943" source="Mike Altria" target="ABC Perth"></edge>
+      <edge id="944" source="Bob Willcox" target="ABC Perth"></edge>
+      <edge id="945" source="Ian Ross" target="Sydney Daily Mirror"></edge>
+      <edge id="946" source="Ian Ross" target="Frank Packer"></edge>
+      <edge id="947" source="Peter Meakin" target="TCN-9"></edge>
+      <edge id="948" source="Peter Meakin" target="ATN-7"></edge>
+      <edge id="949" source="David Leckie" target="GTV-9"></edge>
+      <edge id="950" source="David Leckie" target="TCN-9"></edge>
+      <edge id="951" source="David Leckie" target="ATN-7"></edge>
+      <edge id="952" source="Ted Simmons" target="Sydney Daily Mirror"></edge>
+      <edge id="953" source="Anna Murdoch" target="Sydney Daily Mirror"></edge>
+      <edge id="954" source="Josephine Blanche d'Alpuget" target="Sydney Daily Mirror"></edge>
+      <edge id="955" source="Janet Hawley" target="Sydney Daily Mirror"></edge>
+      <edge id="956" source="Michael Ramsden" target="Sydney Daily Mirror"></edge>
+      <edge id="957" source="Chuck Faulkner" target="TCN-9"></edge>
+      <edge id="958" source="Brian Henderson" target="TCN-9"></edge>
+      <edge id="959" source="Barry Matheson" target="TCN-9"></edge>
+      <edge id="960" source="Greg Grainger" target="TCN-9"></edge>
+      <edge id="961" source="Kerry Packer" target="TCN-9"></edge>
+      <edge id="962" source="Ian Cook" target="ATN-7"></edge>
+      <edge id="963" source="Ian Cook" target="TEN"></edge>
+      <edge id="964" source="Ian Cook" target="TCN-9"></edge>
+      <edge id="965" source="Tracy Grimshhaw" target="TCN-9"></edge>
+      <edge id="966" source="Monte Dwyer" target="TCN-9"></edge>
+      <edge id="967" source="Jim Waley" target="TCN-9"></edge>
+      <edge id="968" source="Chris Willis" target="ATN-7"></edge>
+      <edge id="969" source="Chris Bath" target="ATN-7"></edge>
+      <edge id="970" source="Ian Ross" target="Peter Meakin"></edge>
+      <edge id="971" source="Ian Ross" target="David Leckie"></edge>
+      <edge id="972" source="Ian Ross" target="Ted Simmons"></edge>
+      <edge id="973" source="Ian Ross" target="Anna Murdoch"></edge>
+      <edge id="974" source="Ian Ross" target="Josephine Blanche d'Alpuget"></edge>
+      <edge id="975" source="Ian Ross" target="Janet Hawley"></edge>
+      <edge id="976" source="Ian Ross" target="Michael Ramsden"></edge>
+      <edge id="977" source="Ian Ross" target="Chuck Faulkner"></edge>
+      <edge id="978" source="Ian Ross" target="Brian Henderson"></edge>
+      <edge id="979" source="Ian Ross" target="Barry Matheson"></edge>
+      <edge id="980" source="Ian Ross" target="Greg Grainger"></edge>
+      <edge id="981" source="Ian Ross" target="Kerry Packer"></edge>
+      <edge id="982" source="Ian Ross" target="Ian Cook"></edge>
+      <edge id="983" source="Ian Ross" target="Tracy Grimshhaw"></edge>
+      <edge id="984" source="Ian Ross" target="Monte Dwyer"></edge>
+      <edge id="985" source="Ian Ross" target="Jim Waley"></edge>
+      <edge id="986" source="Ian Ross" target="Chris Willis"></edge>
+      <edge id="987" source="Ian Ross" target="Chris Bath"></edge>
+      <edge id="988" source="Mary Parker" target="Frank Packer"></edge>
+      <edge id="989" source="Mary Parker" target="Peter Finch"></edge>
+      <edge id="990" source="Mary Parker" target="Ron Randell"></edge>
+      <edge id="991" source="Mary Parker" target="Mignon Doherty"></edge>
+      <edge id="992" source="Mary Parker" target="Rolf Harris"></edge>
+      <edge id="993" source="Mary Parker" target="Eric Pearce"></edge>
+      <edge id="994" source="Mary Parker" target="Dan Webb"></edge>
+      <edge id="995" source="Mary Parker" target="Geoff Raymond"></edge>
+      <edge id="996" source="Mary Parker" target="Colin Fraser"></edge>
+      <edge id="997" source="Mary Parker" target="Keith Cairns"></edge>
+      <edge id="998" source="Eric Pearce" target="HSV-7"></edge>
+      <edge id="999" source="Eric Pearce" target="GTV-9"></edge>
+      <edge id="1000" source="Dan Webb" target="HSV-7"></edge>
+      <edge id="1001" source="Geoff Raymond" target="HSV-7"></edge>
+      <edge id="1002" source="Geoff Raymond" target="ATV-0"></edge>
+      <edge id="1003" source="Colin Fraser" target="HSV-7"></edge>
+      <edge id="1004" source="Keith Cairns" target="HSV-7"></edge>
+      <edge id="1005" source="John Bale" target="Melbourne Film-maker's Co-op"></edge>
+    </edges>
+  </graph>
+</gexf>

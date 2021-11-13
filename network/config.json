@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Briana Maguire"
+  },
+  "text": {
+    "more": "Oral Connections is a project that connects cameramen, journalists, directors, presenters in Australia\u0027s audiovisual industry. Applying\nnetwork analysis techniques to the oral history interview program hosted by the NFSA, provide first ever accessibility to a complete\nvisualisation of the various connections across media organisations and news channels; the graph becoming a representation of the way Australia’s\nindustry has taken shape.",
+    "intro": "In Memory of Bert Newton (1938-2021)",
+    "title": "Network Analysis NFSA Oral Histories"
+  },
+  "legend": {
+    "edgeLabel": "Worked with",
+    "colorLabel": "Channel/organisation",
+    "nodeLabel": "Member"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "category",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": "Label"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
